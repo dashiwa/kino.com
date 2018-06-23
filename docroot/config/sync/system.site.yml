@@ -1,0 +1,14 @@
+uuid: 9439d1fc-6b6f-4a63-afaf-d143ffaf57c9
+name: Kinovolk
+mail: moscovie.com@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
