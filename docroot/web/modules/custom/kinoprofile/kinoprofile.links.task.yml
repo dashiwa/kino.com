@@ -1,0 +1,23 @@
+# Kino profile routing definition
+
+entity.kino_profile.canonical:
+  route_name: entity.kino_profile.canonical
+  base_route: entity.kino_profile.canonical
+  title: 'View'
+
+entity.kino_profile.edit_form:
+  route_name: entity.kino_profile.edit_form
+  base_route: entity.kino_profile.canonical
+  title: 'Edit'
+
+entity.kino_profile.version_history:
+  route_name: entity.kino_profile.version_history
+  base_route: entity.kino_profile.canonical
+  title: 'Revisions'
+
+entity.kino_profile.delete_form:
+  route_name:  entity.kino_profile.delete_form
+  base_route:  entity.kino_profile.canonical
+  title: Delete
+  weight: 10
+

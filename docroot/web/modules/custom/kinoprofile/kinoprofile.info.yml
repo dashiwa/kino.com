@@ -1,0 +1,5 @@
+name: KinoProfile
+description: Profile entity
+type: module
+core: 8.x
+package: KinoVolk

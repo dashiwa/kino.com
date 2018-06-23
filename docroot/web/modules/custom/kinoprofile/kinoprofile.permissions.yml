@@ -1,0 +1,30 @@
+add kino profile entities:
+  title: 'Create new Kino profile entities'
+
+administer kino profile entities:
+  title: 'Administer Kino profile entities'
+  description: 'Allow to access the administration form to configure Kino profile entities.'
+  restrict access: true
+
+delete kino profile entities:
+  title: 'Delete Kino profile entities'
+
+edit kino profile entities:
+  title: 'Edit Kino profile entities'
+
+view published kino profile entities:
+  title: 'View published Kino profile entities'
+
+view unpublished kino profile entities:
+  title: 'View unpublished Kino profile entities'
+
+view all kino profile revisions:
+  title: 'View all Kino profile revisions'
+
+revert all kino profile revisions:
+  title: 'Revert all Kino profile revisions'
+  description: 'Role requires permission <em>view Kino profile revisions</em> and <em>edit rights</em> for kino profile entities in question or <em>administer kino profile entities</em>.'
+
+delete all kino profile revisions:
+  title: 'Delete all revisions'
+  description: 'Role requires permission to <em>view Kino profile revisions</em> and <em>delete rights</em> for kino profile entities in question or <em>administer kino profile entities</em>.'

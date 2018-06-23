@@ -1,0 +1,18 @@
+
+# Kino profile menu items definition
+entity.kino_profile.collection:
+  title: 'Kino profile list'
+  route_name: entity.kino_profile.collection
+  description: 'List Kino profile entities'
+  parent: system.admin_structure
+  weight: 100
+
+
+# Kino profile type menu items definition
+entity.kino_profile_type.collection:
+  title: 'Kino profile type'
+  route_name: entity.kino_profile_type.collection
+  description: 'List Kino profile type (bundles)'
+  parent: system.admin_structure
+  weight: 99
+
